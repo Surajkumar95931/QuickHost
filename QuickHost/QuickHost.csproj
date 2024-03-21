@@ -2154,6 +2154,7 @@
     <Content Include="imgs\xy.jpg" />
     <Content Include="Web.config" />
     <Content Include="homepage.aspx" />
+    <Content Include="WebForm2.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutUS.aspx.cs">
@@ -2177,6 +2178,13 @@
     </Compile>
     <Compile Include="homepage.aspx.designer.cs">
       <DependentUpon>homepage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
