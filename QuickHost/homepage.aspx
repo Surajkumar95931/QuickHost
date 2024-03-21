@@ -10,7 +10,7 @@
     <section class="section-container">
         <img src="imgs/1.jpg" class="img-fluid" />
         <div class="a1">
-            <h1>HOST YOUR WEBSITE HERE</h1>
+            <h1>HOST YOUR WEBSITE HERE Akshay</h1>
         </div>
     </section>
     <section class="sec-cor">
