@@ -45,5 +45,15 @@
             </div>
         </div>
     </section>
+   <section class="content-section">
+    <div class="content">
+        <h2>What is Dynamic DNS?</h2>
+        <p class="paragraph-text">
+             Dynamic DNS makes a dynamic IP address act like it is a static IP address, meaning it does not change. It does this by utilizing a hostname and our Dynamic Update Client to keep your hostname updated with the correct IP address.
+        </p>
+    </div>
+</section>
+
+
 
 </asp:Content>

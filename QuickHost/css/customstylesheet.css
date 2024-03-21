@@ -119,3 +119,78 @@
     box-shadow:inherit;
     
 }
+
+/*section tag*/
+/* Section styling */
+.content-section {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 80vh; /* Adjust the height as needed */
+    background-color:gainsboro
+}
+
+
+/* Div styling */
+.content {
+    text-align: center;
+    font-size: 38px;
+}
+/* Paragraph text styling */
+.paragraph-text {
+    text-align: center;
+    font-size: 18px;
+    padding:12px;
+}
+/*login form css*/
+/* CSS for login form */
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    border-color:chocolate;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .login-container h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .login-container .form-group {
+        margin-bottom: 15px;
+    }
+
+    .login-container label {
+        display: block;
+        font-weight: bold;
+    }
+
+    .login-container input[type="email"],
+    .login-container input[type="password"] {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .login-container button {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .login-container button:hover {
+            background-color: #0056b3;
+        }
+
+        .login-container button:active {
+            background-color: #0056b3;
+            transform: translateY(1px);
+        }
