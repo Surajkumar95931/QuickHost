@@ -7,16 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace QuickHost
 {
-    public partial class Site1 : System.Web.UI.MasterPage
+    public partial class User_SignUp : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
-        }
-
-        protected void LinkButton2_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("User-SignUp.aspx");
         }
     }
 }

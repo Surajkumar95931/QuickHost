@@ -2151,7 +2151,9 @@
     <Content Include="imgs\1.jpeg" />
     <Content Include="imgs\1.jpg" />
     <Content Include="imgs\12.jpg" />
+    <Content Include="imgs\user.png" />
     <Content Include="imgs\xy.jpg" />
+    <Content Include="User-SignUp.aspx" />
     <Content Include="Web.config" />
     <Content Include="homepage.aspx" />
     <Content Include="WebForm2.aspx" />
@@ -2178,6 +2180,13 @@
     </Compile>
     <Compile Include="homepage.aspx.designer.cs">
       <DependentUpon>homepage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User-SignUp.aspx.cs">
+      <DependentUpon>User-SignUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User-SignUp.aspx.designer.cs">
+      <DependentUpon>User-SignUp.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm2.aspx.cs">
       <DependentUpon>WebForm2.aspx</DependentUpon>
