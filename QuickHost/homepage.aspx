@@ -19,4 +19,31 @@
             <h3>Interested in Private, Secure and Anonymous Online Browsing?</h3>
         </div>
     </section>
-    </asp:Content>
+    <section class="card-container">
+        <div class="card left">
+            <div class="card-body">
+                <h5 class="card-title">Left Card</h5>
+                <p class="card-text">
+                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing.
+                </p>
+            </div>
+        </div>
+        <div class="card middle">
+            <div class="card-body">
+                <h5 class="card-title" >Middle Card</h5>
+                <p class="card-text">
+                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing..
+                </p>
+            </div>
+        </div>
+        <div class="card right">
+            <div class="card-body">
+                <h5 class="card-title">Right Card</h5>
+                <p class="card-text">
+                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing.
+                </p>
+            </div>
+        </div>
+    </section>
+
+</asp:Content>
