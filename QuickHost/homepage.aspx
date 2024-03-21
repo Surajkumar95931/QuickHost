@@ -22,25 +22,25 @@
     <section class="card-container">
         <div class="card left">
             <div class="card-body">
-                <h5 class="card-title">Left Card</h5>
+                <h5 class="card-title">Dynamic DNS</h5>
                 <p class="card-text">
-                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing.
+                    Dynamic DNS is a convenient and cost-effective solution for maintaining accessibility to your website, particularly if you're hosting it on a server with a dynamic IP address. By automatically updating DNS records, dynamic DNS ensures that visitors can always reach your website without disruption.
                 </p>
             </div>
         </div>
         <div class="card middle">
             <div class="card-body">
-                <h5 class="card-title" >Middle Card</h5>
+                <h5 class="card-title" >Domain</h5>
                 <p class="card-text">
-                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing..
+                    A Domain is a fundamental component of the internet infrastructure, providing a way to identify and access online resources. It plays a crucial role in web navigation, branding, and establishing an online presence for individuals, businesses, and organizations.
                 </p>
             </div>
         </div>
         <div class="card right">
             <div class="card-body">
-                <h5 class="card-title">Right Card</h5>
+                <h5 class="card-title">VPN</h5>
                 <p class="card-text">
-                    An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: host or network interface identification and location addressing.
+                    VPNs offer users enhanced privacy, security, and flexibility when accessing the internet or private networks. By encrypting data, masking IP addresses, and providing secure connections, VPNs enable users to browse the web safely, access restricted content, and connect to private networks from anywhere in the world.
                 </p>
             </div>
         </div>
