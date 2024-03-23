@@ -11,7 +11,7 @@
         <img src="imgs/1.jpg" class="img-fluid" />
         <div class="a1">
             <h1>HOST YOUR WEBSITE HERE Akshay choudhary</h1>
-            <h1>HOST YOUR WEBSITE HERE Suraj Kumar</h1>
+            
             <a href="WebForm4.aspx">click here to see</a>
 
         </div>
